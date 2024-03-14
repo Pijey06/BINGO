@@ -1,5 +1,5 @@
 console.log("SUP COMRADE!!!!");
-generateNumber(15);
+generateNumber(75);
 
 function generateNumber(max){
     //add = +
